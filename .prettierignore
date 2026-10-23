@@ -1,0 +1,8 @@
+node_modules/
+dist/
+output/
+.agents/
+.codex/
+.playwright-cli/
+package-lock.json
+*.tsbuildinfo
