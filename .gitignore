@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.playwright-cli/
+output/
+.agents/
+.codex/
+.env
+.env.*
+!.env.example
